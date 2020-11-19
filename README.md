@@ -1,11 +1,11 @@
-# Educational-Website
+# Digital Consultancy
 This is an HTML and CSS webpage for a university assignment project.
 This project is done by:
 
 Mohammad Saduzzaman Sadi  (Id. 1712020101) & 
 Mohi Uddin Pabel          (Id. 1712020128). 
 Department of CSE
-Leading University
+Leading University.
 
 
 Submitted to:
